@@ -10,6 +10,5 @@ int main() {
 	}
 	else{
 		printf("a1 is greater than a2");
-		printf("\n%d",(a1-a2));
-	}
+		printf("\n%d",(a1-a2));}
 }
