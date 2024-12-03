@@ -1,8 +1,10 @@
 #include <stdio.h>
 int main() {
+	printf("a1 = <input your number>\n");
+	printf("a1 = <input your number>\n");
 	int a1;
-	int a2;
 	scanf("%d" , &a1);
+	int a2;
 	scanf("%d" , &a2);
 	if (a2 > a1){
 		printf("a2 is greater than a1");
