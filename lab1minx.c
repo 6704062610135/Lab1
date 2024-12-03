@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main() {
-	printf("a1 = <input your number>\n");
-	printf("a2 = <input your number>\n");
+	printf("a1 = <input your number> and a2 = <input your number>")
 	int a1;
 	int a2;
 	scanf("%d" , &a1);
